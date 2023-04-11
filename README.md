@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <img src="./img/pong_logo.png" alt="Pong-Prodigy Logo" width="200">
-  <br>
   Pong-Prodigy
   <br>
 </h1>
